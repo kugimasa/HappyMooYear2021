@@ -1,0 +1,4 @@
+## App packaging
+*.dSYM
+## Binary
+main
